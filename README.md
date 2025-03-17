@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Gustavo05050/Gustavo05050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Olá! Eu sou o Gustavo 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um estudante apaixonado por tecnologia e programação. Tenho 15 anos e estou atualmente fazendo um curso técnico de Informática. Além disso, estou estudando **HTML** e **CSS**, buscando melhorar minhas habilidades e aprender mais sobre o desenvolvimento web.
+
+### 💻 O que estou aprendendo:
+- **HTML**: Estruturação de páginas web.
+- **CSS**: Estilização e design de sites.
+- **Técnico de Informática**: Aprendendo sobre hardware, redes e software.
+
+### 🚀 Projetos em que estou trabalhando:
+- Estou criando pequenos projetos de sites estáticos para praticar HTML e CSS.
+- Estou aprendendo a fazer layouts responsivos e a aplicar boas práticas de design.
+
+### 🌱 O que estou buscando:
+- Aperfeiçoar meus conhecimentos em **desenvolvimento web**.
+- Explorar outras linguagens e frameworks no futuro, como **JavaScript** e **React**.
+
+
